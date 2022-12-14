@@ -10,11 +10,23 @@ On this site I would like to share with you everything I have achieved so far
 
 ## Statistics
 ### uTest
+Cycles
+Test cases 
+Bugs
+Exceptionally
+Highest rate
+Actual rate
 
-### individual
+### Individual work
+Projects
+Test cases
+Bugs
 
-### learning
 
+### Learning
+books   
+blogs   
+courses
 
 
 ## Tools
