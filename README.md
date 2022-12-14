@@ -10,12 +10,13 @@ On this site I would like to share with you everything I have achieved so far
 
 ## Statistics
 ### uTest
-Cycles
-Test cases 
-Bugs
-Exceptionally
-Highest rate
-Actual rate
+Cycles          149
+Test cases      76
+Bugs            192
+High integrity  2
+Exceptionally   2
+Highest rate  
+Actual rate     84.2643%
 
 ### Individual work
 Projects
