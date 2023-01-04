@@ -1,7 +1,7 @@
 # Portfolio
 
 
-![My activity]( /KStefanski-Polek/Files/My Activity.jpg )
+![My activity]( /Files/My Activity.jpg )
 
 ## O mnie
 Hi, my name is Kamil Stefański-Polek. I have graduated as engineer from UR Kraków, specializing in transport and logistics. 
