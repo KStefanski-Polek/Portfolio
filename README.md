@@ -1,6 +1,6 @@
 # Portfolio
 
-- [My Activity] (https://drive.google.com/drive/folders/1tjf4soUjClVYjL958Ex_g8O3tkokw35i?hl=pl) - overall statistics for my work on uTest
+- [My Activity](https://drive.google.com/drive/folders/1tjf4soUjClVYjL958Ex_g8O3tkokw35i?hl=pl) - overall statistics for my work on uTest
 
 ## O mnie
 Hi, my name is Kamil Stefański-Polek. I have graduated as engineer from UR Kraków, specializing in transport and logistics. 
