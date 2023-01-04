@@ -3,6 +3,8 @@
 
 ![My activity]( /Files/My Activity.jpg )
 
+![alternatywny tekst](/Files/My Activity.jpg "Tytuł")
+
 ## O mnie
 Hi, my name is Kamil Stefański-Polek. I have graduated as engineer from UR Kraków, specializing in transport and logistics. 
 I am at the beggining of my software tester journey. 
