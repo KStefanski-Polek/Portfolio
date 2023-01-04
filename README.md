@@ -1,7 +1,7 @@
 # Portfolio
 
 To jest [przykładowy link](http://przykład.pl/)
-![alternatywny tekst](/path/to/img.jpg "Tytuł")
+![My activity]([/path/to/img.jpg](https://ibb.co/gRjQ6vN) "Tytuł")
 
 ## O mnie
 Hi, my name is Kamil Stefański-Polek. I have graduated as engineer from UR Kraków, specializing in transport and logistics. 
