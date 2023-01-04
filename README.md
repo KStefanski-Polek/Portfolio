@@ -20,7 +20,10 @@ I encourage you to check ;)
 [Issues Quality](https://drive.google.com/file/d/1U6AfEMh9G0U1Pyqd8XrCFSC1PJG7qpir/view) - issues reported by value
 
 [All customers statistics](https://docs.google.com/spreadsheets/d/1QV2zdMfI_xx_1SRSFBXciHrlgcq-FshKVUK7tVQRifY/edit#gid=0) -due to fact the platform is not counting some statistics correctly
+### Test Cases
 
+
+### Bug reports
 
 ## Individual work
 Projects
