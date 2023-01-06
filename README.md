@@ -13,9 +13,26 @@ I am constantly developing, so everything you see here is also constantly update
 I encourage you to check ;)
 
 ## Tools
+* Testing and management 
+  * Jira
+  * Postman
+  * Testlink
 
-
+* Supporting tools
+  * AZ Screen Recorder
+  * Bandicam
+  * PicPick
+  * ShareX
+  * Android SDK Platform Tools
+  * 
 ## Technical skills
+* SQL basiscs
+* API basics
+* SCRUM
+* Test Case executing
+* Reporting Bugs
+* Collecting logs
+
 ## Learning
 ### Books   
 * R. Smilgin - Zawód Tester
