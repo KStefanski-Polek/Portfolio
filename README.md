@@ -31,9 +31,9 @@ Bugs
 
 
 ## Learning
-### books   
-### blogs   
-### courses
+### Books   
+### Blogs   
+### Courses
 
 
 ## Tools
