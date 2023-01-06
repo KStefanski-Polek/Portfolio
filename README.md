@@ -12,47 +12,37 @@ On this site I would like to share with you everything I have achieved so far.
 I am constantly developing, so everything you see here is also constantly updated. 
 I encourage you to check ;)
 
+## Tools
+
+
+## Technical skills
+## Learning
+### Books   
+* R. Smilgin - Zawód Tester
+### Blogs 
+
+### Courses
+
+## Groups on Facebooks
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
+
+# Projects
+In this section I will share my work - test cases, bug reports, documentations etc.
+
 ## uTest
+
+### Bug reports
+
+### Test Cases
 
 ### Statistics
 [My Activity](https://drive.google.com/file/d/1ZHX3TRorr9zxRpGSzjG_ysvG1AFbRbDe/view) - overall statistics for my work on uTest <br>
 [Issues Quality](https://drive.google.com/file/d/1U6AfEMh9G0U1Pyqd8XrCFSC1PJG7qpir/view) - issues reported by value <br>
 [All customers statistics](https://docs.google.com/spreadsheets/d/1QV2zdMfI_xx_1SRSFBXciHrlgcq-FshKVUK7tVQRifY/edit#gid=0) -due to fact the platform is not counting some statistics correctly
 
-### Test Cases
 
-
-### Bug reports
 
 ## Individual work
-Projects
-Test cases
-Bugs
-
-
-## Learning
-### Books   
-### Blogs   
-### Courses
-
-
-## Tools
-
-
-## Technical skills
-
-
-## Courses
-
-
-## Books
-
-
-## Groups on Facebooks
-
-
-# Projects
-In this section I will share my work - test cases, bug reports, documntations etc.
 
 ## Test Cases
 
@@ -60,4 +50,4 @@ In this section I will share my work - test cases, bug reports, documntations et
 ## Bug reports
 
 
-## 
+## Documentations
