@@ -20,11 +20,11 @@ I encourage you to check ;)
 ### Books   
 * R. Smilgin - Zawód Tester
 ### Blogs 
-*[wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
-*[remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-*[toniebug.pl](https://www.toniebug.pl/)
-*[guru99.com](https://www.guru99.com/software-testing.html)
-*[bugfreeblog.com](https://bugfreeblog.com/)
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)<br>
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)<br>
+* [toniebug.pl](https://www.toniebug.pl/)<br>
+* [guru99.com](https://www.guru99.com/software-testing.html)<br>
+* [bugfreeblog.com](https://bugfreeblog.com/)<br>
 ### Courses
 
 ## Groups on Facebooks
