@@ -48,10 +48,10 @@ In this section I will share my work - test cases, bug reports, documentations e
 
 ## Individual work
 
-## Test Cases
+### Test Cases
 
 
-## Bug reports
+### Bug reports
 
 
-## Documentations
+### Documentations
