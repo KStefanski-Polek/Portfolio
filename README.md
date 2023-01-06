@@ -9,7 +9,7 @@ For now I am gaining:
 * theoretical knowledge from all Internet source I can find.
 
 On this site I would like to share with you everything I have achieved so far.
-I am constantly developing, so everything you see here is also constantly updated. 
+I am constantly developing, so everything you see here is also constantly updated. <br>
 I encourage you to check ;)
 
 ## Tools
@@ -31,9 +31,9 @@ In this section I will share my work - test cases, bug reports, documentations e
 
 ## uTest
 
-### Bug reports
+### Bug reports examples
 
-### Test Cases
+### Test Cases executed examples
 
 ### Statistics
 [My Activity](https://drive.google.com/file/d/1ZHX3TRorr9zxRpGSzjG_ysvG1AFbRbDe/view) - overall statistics for my work on uTest <br>
