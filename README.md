@@ -27,7 +27,7 @@ I encourage you to check ;)
 * [bugfreeblog.com](https://bugfreeblog.com/)<br>
 ### Courses
 
-## Groups on Facebooks
+### Groups on Facebooks
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
 
 # Projects
