@@ -10,13 +10,13 @@ For now I am gaining:
 
 On this site I would like to share with you everything I have achieved so far.
 I am constantly developing, so everything you see here is also constantly updated. <br>
-I encourage you to check ;)
+I encourage you to check regularly ;)
 
 ## Tools
 * Testing and management 
-  * Jira
-  * Postman
-  * Testlink
+  * Jira - project managing and bug tracking
+  * Postman - API testing 
+  * Testlink - test management tool
 
 * Supporting tools
   * AZ Screen Recorder
@@ -24,17 +24,16 @@ I encourage you to check ;)
   * PicPick
   * ShareX
   * Android SDK Platform Tools
-  * 
+
 ## Technical skills
 * SQL basiscs
 * API basics
-* SCRUM
 * Test Case executing
 * Reporting Bugs
 * Collecting logs
 
 ## Learning
-### Books   
+### Books and documents
 * R. Smilgin - Zawód Tester
 ### Blogs 
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)<br>
@@ -51,10 +50,10 @@ I encourage you to check ;)
 In this section I will share my work - test cases, bug reports, documentations etc.
 
 ## uTest
+In here I would like to share fruits of my labor. I dont want want to bore you, so I will try to find few interesting examples.
+### Bug reports
 
-### Bug reports examples
-
-### Test Cases executed examples
+### Test Cases (executed only)
 
 ### Statistics
 [My Activity](https://drive.google.com/file/d/1ZHX3TRorr9zxRpGSzjG_ysvG1AFbRbDe/view) - overall statistics for my work on uTest <br>
@@ -65,7 +64,7 @@ In this section I will share my work - test cases, bug reports, documentations e
 
 ## Individual work
 
-### Test Cases
+### Test Cases (created and executed ;)
 
 
 ### Bug reports
