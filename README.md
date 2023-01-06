@@ -15,8 +15,7 @@ I encourage you to check ;)
 ## uTest
 
 ### Statistics
-[My Activity](https://drive.google.com/file/d/1ZHX3TRorr9zxRpGSzjG_ysvG1AFbRbDe/view) - overall statistics for my work on uTest
-
+[My Activity](https://drive.google.com/file/d/1ZHX3TRorr9zxRpGSzjG_ysvG1AFbRbDe/view) - overall statistics for my work on uTest <br>
 [Issues Quality](https://drive.google.com/file/d/1U6AfEMh9G0U1Pyqd8XrCFSC1PJG7qpir/view) - issues reported by value
 
 [All customers statistics](https://docs.google.com/spreadsheets/d/1QV2zdMfI_xx_1SRSFBXciHrlgcq-FshKVUK7tVQRifY/edit#gid=0) -due to fact the platform is not counting some statistics correctly
