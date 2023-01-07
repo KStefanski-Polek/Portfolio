@@ -54,6 +54,7 @@ I encourage you to check regularly ;)
 
 # Projects
 In this section I will share my work - test cases, bug reports, documentations etc.
+As I am searching for every oportunities to grow, there will be works from various programs / platforms.
 
 ## uTest
 In here I would like to share fruits of my labor. I dont want want to bore you, so I will try to find few interesting examples.
