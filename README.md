@@ -34,7 +34,7 @@ I encourage you to check regularly ;)
 * Collecting logs
 
 ## Learning
-***working on it***
+
 ### Books and documents
 * R. Smilgin - Zawód Tester
 * ISTQB Certified Tester Foundation Level (CTFL) (without certification)
@@ -47,6 +47,7 @@ I encourage you to check regularly ;)
 * [bugfreeblog.com](https://bugfreeblog.com/)<br>
 
 ### Courses
+***working on it***
 
 ### Groups on Facebooks
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
