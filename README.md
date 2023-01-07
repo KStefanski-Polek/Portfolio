@@ -16,7 +16,7 @@ I encourage you to check regularly ;)
 * Testing and management 
   * [Jira](https://www.atlassian.com/pl/software/jira) - project managing and bug tracking
   * [Postman](https://www.postman.com/) - API testing 
-  * Testlink - test management tool
+  * Testlink - test management, test cases writing
 
 * Supporting tools
   * [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=en&gl=US&pli=1) - android screen capturing
