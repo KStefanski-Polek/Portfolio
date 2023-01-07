@@ -14,16 +14,17 @@ I encourage you to check regularly ;)
 
 ## Tools
 * Testing and management 
-  * Jira - project managing and bug tracking
-  * Postman - API testing 
+  * [Jira](https://www.atlassian.com/pl/software/jira) - project managing and bug tracking
+  * [Postman](https://www.postman.com/) - API testing 
   * Testlink - test management tool
 
 * Supporting tools
-  * AZ Screen Recorder
-  * Bandicam
-  * PicPick
-  * ShareX
-  * Android SDK Platform Tools
+  * [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=en&gl=US&pli=1) - android screen capturing
+  * [Bandicam](https://www.bandicam.com/pl/) - Windows screen video capturing
+  * [GitHub](https://github.com/) - repositories writing
+  * [ShareX](https://getsharex.com/) - Windows screen capturing
+  * [Android SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools) - Android logs collecting
+  * [Charles Proxy](https://www.charlesproxy.com/) - collecting HTTP traffic logs
 
 ## Technical skills
 * SQL basiscs
@@ -33,14 +34,18 @@ I encourage you to check regularly ;)
 * Collecting logs
 
 ## Learning
+
 ### Books and documents
 * R. Smilgin - Zawód Tester
+* ISTQB Certified Tester Foundation Level (CTFL) (without certification)
+
 ### Blogs 
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)<br>
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)<br>
 * [toniebug.pl](https://www.toniebug.pl/)<br>
 * [guru99.com](https://www.guru99.com/software-testing.html)<br>
 * [bugfreeblog.com](https://bugfreeblog.com/)<br>
+
 ### Courses
 
 ### Groups on Facebooks
@@ -51,9 +56,10 @@ In this section I will share my work - test cases, bug reports, documentations e
 
 ## uTest
 In here I would like to share fruits of my labor. I dont want want to bore you, so I will try to find few interesting examples.
+
 ### Bug reports
 
-### Test Cases (executed only)
+### Test Cases (executed)
 
 ### Statistics
 [My Activity](https://drive.google.com/file/d/1ZHX3TRorr9zxRpGSzjG_ysvG1AFbRbDe/view) - overall statistics for my work on uTest <br>
@@ -66,8 +72,6 @@ In here I would like to share fruits of my labor. I dont want want to bore you, 
 
 ### Test Cases (created and executed ;)
 
-
 ### Bug reports
-
 
 ### Documentations
