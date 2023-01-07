@@ -34,7 +34,7 @@ I encourage you to check regularly ;)
 * Collecting logs
 
 ## Learning
-
+***working on it***
 ### Books and documents
 * R. Smilgin - Zawód Tester
 * ISTQB Certified Tester Foundation Level (CTFL) (without certification)
