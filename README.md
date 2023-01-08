@@ -4,7 +4,7 @@
 ## About me
 Hi, my name is Kamil Stefański-Polek. I have graduated as engineer from UR Kraków, specializing in transport and logistics. 
 I have over two years of experience in manual testing for crowd-testing platform uTest. I am looking for opportunities for leraning more and more.
-Within a year I want to start automation testing
+Within a year I want to start automation testing.<br>
 For now I am gaining:
 * practical abilities on uTest platform (for over a two years now),
 * theoretical knowledge from all Internet source I can find.
