@@ -75,7 +75,7 @@ Other worth noting:
 * 1x Team Member for Regression Tests (leading Streaming Platform)
 * 2x Exceptionally valuable Reports 
 * 4x High Integirty Reports<br>
-* [Issues Quality](https://drive.google.com/file/d/1U6AfEMh9G0U1Pyqd8XrCFSC1PJG7qpir/view) - issues reported by value <br>
+[Issues Quality](https://drive.google.com/file/d/1U6AfEMh9G0U1Pyqd8XrCFSC1PJG7qpir/view) - issues reported by value <br>
 
 ## Individual work
 ***working on it***<br>
