@@ -38,7 +38,7 @@ I encourage you to check regularly ;)
 
 ### Books and documents
 * R. Smilgin - Zawód Tester
-* ISTQB Certified Tester Foundation Level (CTFL) (without certification)
+* ISTQB Certified Tester Foundation Level (CTFL) __(without certification)__
 
 ### Blogs 
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)<br>
@@ -70,13 +70,13 @@ I hope it will interest you.
 
 ### Statistics
 [My Activity](https://drive.google.com/file/d/1ZHX3TRorr9zxRpGSzjG_ysvG1AFbRbDe/view) - overall statistics for my work on uTest <br>
-[All customers statistics](https://docs.google.com/spreadsheets/d/1QV2zdMfI_xx_1SRSFBXciHrlgcq-FshKVUK7tVQRifY/edit#gid=0) -due to fact the platform is not counting some statistics correctly
-[Issues Quality](https://drive.google.com/file/d/1U6AfEMh9G0U1Pyqd8XrCFSC1PJG7qpir/view) - issues reported by value <br>
-Worth notin:
+[All customers statistics](https://docs.google.com/spreadsheets/d/1QV2zdMfI_xx_1SRSFBXciHrlgcq-FshKVUK7tVQRifY/edit#gid=0) - My Activity on platform is not counting some statistics correctly<br>
+Other worth noting:
 * 1x Academy Tester of Week  (September 2021)
 * 1x Team Member for Regression Tests (leading Streaming Platform)
 * 2x Exceptionally valuable Reports 
-* 4x High Integirty Reports
+* 4x High Integirty Reports<br>
+* [Issues Quality](https://drive.google.com/file/d/1U6AfEMh9G0U1Pyqd8XrCFSC1PJG7qpir/view) - issues reported by value <br>
 
 ## Individual work
 ***working on it***<br>
