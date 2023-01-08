@@ -55,7 +55,7 @@ I encourage you to check regularly ;)
 
 # Projects
 In this section I will share my work - test cases, bug reports, documentations etc.<br>
-As I am working on a different ways on daily basis, this would be the most dynamically growing section for sure.
+As I work in different ways on daily basis, this would be the most dynamically growing section for sure.
 
 ## uTest
 Working on uTest is so much exciting fun to me, that it would be impossible to mention everything I have done. So I will share with you most interesting (in  my opinion) achievements, bug reports, statistics.<br>
