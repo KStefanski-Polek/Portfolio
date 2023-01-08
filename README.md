@@ -41,11 +41,11 @@ I encourage you to check regularly ;)
 * ISTQB Certified Tester Foundation Level (CTFL) __(without certification)__
 
 ### Blogs 
-* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)<br>
-* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)<br>
-* [toniebug.pl](https://www.toniebug.pl/)<br>
-* [guru99.com](https://www.guru99.com/software-testing.html)<br>
-* [bugfreeblog.com](https://bugfreeblog.com/)<br>
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+* [toniebug.pl](https://www.toniebug.pl/)
+* [guru99.com](https://www.guru99.com/software-testing.html)
+* [bugfreeblog.com](https://bugfreeblog.com/)
 
 ### Courses
 ***working on it***
@@ -63,9 +63,9 @@ I hope it will interest you.
 
 ### Bug reports (examples)
 
-* [Android App issue](https://drive.google.com/file/d/1D2a4JesHG0LS5SNd7ZfSYJi5dLUQW2FA/view) for TV Guide an Streaming Information App <br>
-* [Playstation app issue](https://drive.google.com/file/d/1ZAH0cDYQYW5LSzTYOy9LVH384Oo3CMSL/view) for Streaming Service and Video on Demand Appn<br>
-* [Webpage issue](https://drive.google.com/file/d/1qS3YeClwVNhkZBfCovFW7xBvff3Ef4lD/view) for website of premium car brand Configurator<br>
+* [Android app issue](https://drive.google.com/file/d/1emJ1dwQqTS16g2U0ILxJI7L5PfQAx83R/view) for TV Guide an Streaming Information app
+* [Playstation app issue](https://drive.google.com/file/d/1I6tfwrML6aW_tqQ9AgX0cnIYzuokhzPh/view) for Streaming Service and Video on Demand app
+* [Webpage issue](https://drive.google.com/file/d/1FLL5c5Hkhey-AyXsHFhe7-EYMRIbus2E/view) for website of premium car brand Configurator
 
 ### Statistics
 [My Activity](https://drive.google.com/file/d/1ZHX3TRorr9zxRpGSzjG_ysvG1AFbRbDe/view) - overall statistics for my work on uTest <br>
@@ -75,12 +75,12 @@ Other worth noting:
 * 1x Team Member for Regression Tests (leading Streaming Platform)
 * 2x Exceptionally valuable Reports 
 * 4x High Integirty Reports<br>
-[Issues Quality](https://drive.google.com/file/d/1U6AfEMh9G0U1Pyqd8XrCFSC1PJG7qpir/view) - issues reported by value <br>
 
+[Issues Quality](https://drive.google.com/file/d/1U6AfEMh9G0U1Pyqd8XrCFSC1PJG7qpir/view) - my issues reported by value <br>
 ## Individual work
 ***working on it***<br>
-I am working on one my own project. <br>
-Soon you will be able to see more about it in here.
+I am working on one, small cooperation project.<br>
+You gonna be able to see more about it here, soon.
 
 ### Test Cases (created and executed ;)
 
