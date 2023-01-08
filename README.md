@@ -1,9 +1,10 @@
 # Portfolio
 
 
-## O mnie
+## About me
 Hi, my name is Kamil Stefański-Polek. I have graduated as engineer from UR Kraków, specializing in transport and logistics. 
-I am at the beggining of my software tester journey. 
+I have over two years of experience in manual testing for crowd-testing platform uTest. I am looking for opportunities for leraning more and more.
+Within a year I want to start automation testing
 For now I am gaining:
 * practical abilities on uTest platform (for over a two years now),
 * theoretical knowledge from all Internet source I can find.
@@ -54,19 +55,24 @@ I encourage you to check regularly ;)
 
 # Projects
 In this section I will share my work - test cases, bug reports, documentations etc.
-As I am searching for every oportunities to grow, there will be works from various programs / platforms.
 
 ## uTest
-In here I would like to share fruits of my labor. I dont want want to bore you, so I will try to find few interesting examples.
+Working on uTest is so much exciting fun to me, that it would be impossible to mention everything I have done. So I will share with you most interesting (in  my opinion) achievements, bug reports, statistics.
+I hope it will interest you.
 
-### Bug reports
+### Bug reports (examples)
 
+*[Android App issue](https://drive.google.com/file/d/1D2a4JesHG0LS5SNd7ZfSYJi5dLUQW2FA/view) for TV Guide an Streaming Information App <br>
+*[Playstation app issue](https://drive.google.com/file/d/1ZAH0cDYQYW5LSzTYOy9LVH384Oo3CMSL/view) for Streaming Service and Video on Demand Appn<br>
+*[Webpage issue](https://drive.google.com/file/d/1qS3YeClwVNhkZBfCovFW7xBvff3Ef4lD/view) for website of premium car brand Configurator<br>
 ### Test Cases (executed)
 
 ### Statistics
 [My Activity](https://drive.google.com/file/d/1ZHX3TRorr9zxRpGSzjG_ysvG1AFbRbDe/view) - overall statistics for my work on uTest <br>
 [Issues Quality](https://drive.google.com/file/d/1U6AfEMh9G0U1Pyqd8XrCFSC1PJG7qpir/view) - issues reported by value <br>
 [All customers statistics](https://docs.google.com/spreadsheets/d/1QV2zdMfI_xx_1SRSFBXciHrlgcq-FshKVUK7tVQRifY/edit#gid=0) -due to fact the platform is not counting some statistics correctly
+
+
 
 
 
