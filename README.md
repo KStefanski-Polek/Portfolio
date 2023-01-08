@@ -63,9 +63,9 @@ I hope it will interest you.
 
 ### Bug reports (examples)
 
-*[Android App issue](https://drive.google.com/file/d/1D2a4JesHG0LS5SNd7ZfSYJi5dLUQW2FA/view) for TV Guide an Streaming Information App <br>
-*[Playstation app issue](https://drive.google.com/file/d/1ZAH0cDYQYW5LSzTYOy9LVH384Oo3CMSL/view) for Streaming Service and Video on Demand Appn<br>
-*[Webpage issue](https://drive.google.com/file/d/1qS3YeClwVNhkZBfCovFW7xBvff3Ef4lD/view) for website of premium car brand Configurator<br>
+* [Android App issue](https://drive.google.com/file/d/1D2a4JesHG0LS5SNd7ZfSYJi5dLUQW2FA/view) for TV Guide an Streaming Information App <br>
+* [Playstation app issue](https://drive.google.com/file/d/1ZAH0cDYQYW5LSzTYOy9LVH384Oo3CMSL/view) for Streaming Service and Video on Demand Appn<br>
+* [Webpage issue](https://drive.google.com/file/d/1qS3YeClwVNhkZBfCovFW7xBvff3Ef4lD/view) for website of premium car brand Configurator<br>
 
 ### Statistics
 [My Activity](https://drive.google.com/file/d/1ZHX3TRorr9zxRpGSzjG_ysvG1AFbRbDe/view) - overall statistics for my work on uTest <br>
