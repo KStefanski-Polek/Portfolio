@@ -80,7 +80,7 @@ Other worth noting:
 ## Individual work
 ***working on it***<br>
 I am working on one, small cooperation project.<br>
-You gonna be able to see more about it here, soon.
+You gonna be able to see more about it here, very soon.
 
 ### Test Cases (created and executed ;)
 
