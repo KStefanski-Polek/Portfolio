@@ -75,7 +75,7 @@ Other worth noting:
 * 1x Academy Tester of Week  (September 2021)
 * 1x Team Member for Regression Tests (leading Streaming Platform)
 * 2x Exceptionally valuable Reports 
-* 4x High Integirty Reports<br>
+* 4x High Integrity Reports<br>
 
 [Issues Quality](https://drive.google.com/file/d/1gM_nfTvFoL4khbrvl3KeHjuQWEpFGbHp/view) - my issues reported by value <br>
 ## Individual work
