@@ -68,7 +68,8 @@ I hope it will interest you.
 * [Webpage issue](https://drive.google.com/file/d/1FLL5c5Hkhey-AyXsHFhe7-EYMRIbus2E/view) for website of premium car brand Configurator
 
 ### Statistics
-[My Activity](https://drive.google.com/file/d/1ZHX3TRorr9zxRpGSzjG_ysvG1AFbRbDe/view) - overall statistics for my work on uTest <br>
+[My Activity](https://drive.google.com/file/d/1FFdtxxon11KWErnCVtgWMj4Gm0cZhrjf/view) - overall statistics for my work on uTest <br>
+[Testing type badges](https://drive.google.com/file/d/12keT5IeXWO41ZGLjmY0gftO9xj-pWY0L/view) <br>
 [All customers statistics](https://docs.google.com/spreadsheets/d/1QV2zdMfI_xx_1SRSFBXciHrlgcq-FshKVUK7tVQRifY/edit#gid=0) - My Activity on platform is not counting some statistics correctly<br>
 Other worth noting:
 * 1x Academy Tester of Week  (September 2021)
@@ -76,7 +77,7 @@ Other worth noting:
 * 2x Exceptionally valuable Reports 
 * 4x High Integirty Reports<br>
 
-[Issues Quality](https://drive.google.com/file/d/1U6AfEMh9G0U1Pyqd8XrCFSC1PJG7qpir/view) - my issues reported by value <br>
+[Issues Quality](https://drive.google.com/file/d/1gM_nfTvFoL4khbrvl3KeHjuQWEpFGbHp/view) - my issues reported by value <br>
 ## Individual work
 ***working on it***<br>
 I am working on one, small cooperation project.<br>
