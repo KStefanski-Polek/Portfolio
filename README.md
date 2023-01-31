@@ -86,8 +86,8 @@ You gonna be able to see more about it here, very soon.
 
 ### Test Cases (created and executed)
 Allegro Smart testing<br>
-Low level, equivalence classes Test Cases<br>
-[Image view](https://drive.google.com/file/d/1SZZp5ewRyKfSkYIdcU0OiQxV6HiV9f7j/view)
+Low level, equivalence classes Test Cases:<br>
+[Image view](https://drive.google.com/file/d/1SZZp5ewRyKfSkYIdcU0OiQxV6HiV9f7j/view)<br>
 [Print view](https://drive.google.com/file/d/1HMirLd2QHKFOmi5qg2xDEA5tUYNL6iex/view)
 ### Bug reports
 
