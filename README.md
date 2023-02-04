@@ -59,7 +59,6 @@ As I work in different ways on daily basis, this would be the most dynamically g
 
 ## uTest
 Working on uTest is so much exciting fun to me, that it would be impossible to mention everything I have done. So I will share with you most interesting (in  my opinion) achievements, bug reports, statistics.<br>
-I hope it will interest you.
 
 ### Bug reports (examples)
 
