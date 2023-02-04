@@ -7,7 +7,7 @@ Thanks to uTest, crowd-testing platform, I have over two years of experience in 
 Within a year I want to start automation testing.<br>
 For now I am gaining:
 * practical abilities on uTest platform (for over a two years now),
-* theoretical knowledge from all Internet source I can find.
+* theoretical knowledge from all source I can find.
 
 On this site I would like to share with you everything I have achieved so far.
 I am constantly developing, so everything you see here is also constantly updated. <br>
