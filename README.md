@@ -86,8 +86,8 @@ You gonna be able to see more about it here, very soon.
 
 ### Test Cases (created and executed)
 
-*Allegro Smart testing*<br>
-Equivalence classes Test Case:<br>
+[*Allegro Smart testing*](https://github.com/KStefanski-Polek/Files/blob/main/Allegro%20Smart%20TC.jpg)<br>
+Equivalence classes Test Case<br>
 [Image view](https://github.com/KStefanski-Polek/Files/blob/main/Allegro%20Smart%20TC.jpg)<br>
 ### Bug reports
 
