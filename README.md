@@ -79,16 +79,12 @@ Other worth noting:
 * 4x High Integrity Reports<br>
 
 [Issues Quality](https://drive.google.com/file/d/1gM_nfTvFoL4khbrvl3KeHjuQWEpFGbHp/view) - my issues reported by value <br>
-## Individual work
-***working on it***<br>
-I am working on one, small cooperation project.<br>
-You gonna be able to see more about it here, very soon.
+## Individual work<br>
 
 ### Test Cases (created and executed)
 
 [*Allegro Smart testing*](https://github.com/KStefanski-Polek/Files/blob/main/Allegro%20Smart%20TC.jpg)<br>
 Equivalence classes Test Case<br>
-[Image view](https://github.com/KStefanski-Polek/Files/blob/main/Allegro%20Smart%20TC.jpg)<br>
 ### Bug reports
 
 ### Documentations
