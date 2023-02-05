@@ -49,7 +49,7 @@ I encourage you to check regularly ;)
 * [bugfreeblog.com](https://bugfreeblog.com/)
 
 ### Courses
-Chrome Developer Tools for Beginners ***working on it***
+Chrome Developer Tools for Beginners - Udemy - ***working on it***
 
 ### Groups on Facebooks
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
