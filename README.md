@@ -62,7 +62,8 @@ As I work in different ways on daily basis, this would be the most dynamically g
 Working on uTest is so much exciting fun to me, that it would be impossible to mention everything I have done. So I will share with you most interesting (in  my opinion) achievements, bug reports, statistics.<br>
 
 ### Bug reports (examples)
-
+Reports are prescribed to Jira but are from real live testing.
+Because of Non-Disclosure Agreements I have to hide app/clients name.
 * [Android app issue](https://drive.google.com/file/d/1emJ1dwQqTS16g2U0ILxJI7L5PfQAx83R/view) for TV Guide an Streaming Information app
 * [Playstation app issue](https://drive.google.com/file/d/1I6tfwrML6aW_tqQ9AgX0cnIYzuokhzPh/view) for Streaming Service and Video on Demand app
 * [Webpage issue](https://drive.google.com/file/d/1FLL5c5Hkhey-AyXsHFhe7-EYMRIbus2E/view) for website of premium car brand Configurator
