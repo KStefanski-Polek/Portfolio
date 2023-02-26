@@ -38,9 +38,9 @@ I encourage you to check regularly ;)
 ## Learning
 
 ### Books and documents
-* R. Smilgin - Zawód Tester
-* ISTQB Certified Tester Foundation Level (CTFL) __(without certification)__
-* Mariot Tsitoara - Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej __in progress__
+* R. Smilgin - *Zawód Tester*
+* *ISTQB Certified Tester Foundation Level (CTFL)* __(without certification)__
+* Mariot Tsitoara - *Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej* __(in progress)__
 
 ### Blogs 
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
